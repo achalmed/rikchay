@@ -4,6 +4,8 @@ Rikchay («imagen, semejanza» en quechua) es una **mediateca**: las fotos, los 
 una institución en un solo lugar, con su selección (aceptada, pendiente, rechazada), personas y caras, lugares en el
 mapa, etiquetas, versiones no destructivas, fotos parecidas y dónde se usó cada una.
 
+**Recorrido interactivo:** <https://achalmed.github.io/rikchay/> (el código del sitio está en [`sitio/`](sitio/)).
+
 Es un módulo de [Tiqsi](https://github.com/achalmed/tiqsi): funciona **solo**, con el anfitrión mínimo de Tiqsi y
 sus propias cuentas, o dentro de una plataforma que lo monte por su manifiesto (como Qillqa).
 
