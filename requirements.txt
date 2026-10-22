@@ -6,7 +6,7 @@ asyncpg==0.30.0
 pydantic-settings==2.5.2
 PyJWT==2.15.1
 python-multipart==0.0.32
-Pillow==12.3.0
+Pillow==13.0.0
 pillow-heif==1.8.1
 uvicorn[standard]==0.30.6
 sqlalchemy[asyncio]==2.0.35
