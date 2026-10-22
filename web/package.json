@@ -1,0 +1,22 @@
+{
+  "name": "@qillqa/rikchay",
+  "version": "0.1.0",
+  "description": "Rikchay web: la Mediateca de la plataforma Qillqa, como módulo web de Tiqsi (su manifiesto y lo que ofrece a otros módulos).",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "exports": {
+    "./modulo": "./src/componentes/fototeca/modulo.ts",
+    "./publico": "./src/componentes/fototeca/publico.ts"
+  },
+  "peerDependencies": {
+    "@qillqa/tiqsi": "*",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@mui/icons-material": "^5",
+    "@mui/material": "^5",
+    "leaflet": "^1.9",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-router": "^7"
+  }
+}
